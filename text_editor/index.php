@@ -64,6 +64,7 @@
    external_filemanager_path:"filemanager/",
    filemanager_title:"Responsive Filemanager",
    external_plugins: { "filemanager" : "http://localhost/text_editor/filemanager/plugin.js"}
+	 //change the path according to the server name
  });
 
 </script>
